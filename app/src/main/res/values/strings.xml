@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecureU</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accessibility_description">Accessibily Service Description</string>
+</resources>
